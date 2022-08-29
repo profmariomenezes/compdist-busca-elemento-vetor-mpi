@@ -10,4 +10,6 @@ Ao final, imprima a posição do elemento encontrado no processo "Master"
 
 Submeter: o código fonte e prints da tela da execução.
 
+Use o notebook Jupyter https://github.com/profmariomenezes/compdist-mpi-start/raw/master/runningMPI_in_Colab.ipynb como _start_ para seu código.
+
 Trabalho individual.
