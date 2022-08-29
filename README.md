@@ -5,6 +5,7 @@ Crie um código-fonte em C, utilizando MPI para encontrar um elemento em um veto
 * garanta que os elementos no vetor sejam únicos (use os vetores fornecidos pelo professor)
 * faça a busca em um elemento que realmente exista
 * para testar a lógica do seu algoritmo, faça testes em vetores de tamanho pequenos.
+* **você deve utilizar os dois vetores fornecidos** para testar o seu código.
 
 Ao final, imprima a posição do elemento encontrado no processo "Master"
 
